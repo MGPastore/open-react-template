@@ -6,8 +6,8 @@ export default function Features() {
 
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
-            <h2 className="h2 mb-4">The majority our customers do not understand their workflows.</h2>
-            <p className="text-xl text-gray-400">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+            <h2 className="h2 mb-4">Here is a summary of the technologies and skills I use, along with the technical reasons behind their choice:</h2>
+            
           </div>
 
           {/* Items */}
@@ -20,8 +20,8 @@ export default function Features() {
                 <path className="stroke-current text-purple-100" d="M30 39.313l-4.18 2.197L27 34.628l-5-4.874 6.91-1.004L32 22.49l3.09 6.26L42 29.754l-3 2.924" strokeLinecap="square" strokeWidth="2" fill="none" fillRule="evenodd" />
                 <path className="stroke-current text-purple-300" d="M43 42h-9M43 37h-9" strokeLinecap="square" strokeWidth="2" />
               </svg>
-              <h4 className="h4 mb-2">Instant Features</h4>
-              <p className="text-lg text-gray-400 text-center">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
+              <h4 className="h4 mb-2">Node.js</h4>
+              <p className="text-lg text-gray-400 text-center">I use Node.js to build efficient backend servers and real-time applications. The main reason is that Node.js allows running JavaScript on the server, making it easier to create applications on both the backend and frontend. This results in more cohesive and efficient code since the same language is used throughout the technology stack.</p>
             </div>
 
             {/* 2nd item */}
@@ -31,8 +31,8 @@ export default function Features() {
                 <path className="stroke-current text-purple-100" strokeWidth="2" strokeLinecap="square" d="M21 23h22v18H21z" fill="none" fillRule="evenodd" />
                 <path className="stroke-current text-purple-300" d="M26 28h12M26 32h12M26 36h5" strokeWidth="2" strokeLinecap="square" />
               </svg>
-              <h4 className="h4 mb-2">Instant Features</h4>
-              <p className="text-lg text-gray-400 text-center">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
+              <h4 className="h4 mb-2">PHP</h4>
+              <p className="text-lg text-gray-400 text-center">My experience in PHP enables me to create dynamic websites and highly functional web applications. PHP is particularly well-suited for web development as it is specifically designed for this purpose. Its ability to interact with databases and process forms makes it a solid choice for building dynamic websites.</p>
             </div>
 
             {/* 3rd item */}
@@ -45,8 +45,8 @@ export default function Features() {
                   <circle className="stroke-current text-purple-100" cx="11" cy="11" r="11" />
                 </g>
               </svg>
-              <h4 className="h4 mb-2">Instant Features</h4>
-              <p className="text-lg text-gray-400 text-center">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
+              <h4 className="h4 mb-2">Python</h4>
+              <p className="text-lg text-gray-400 text-center">I use Python for a variety of purposes, from data analysis to developing artificial intelligence applications and automation. Its extensive ecosystem of libraries and frameworks makes it versatile and efficient. In particular, I use Python with the Flask framework to create fast and lightweight web APIs and ORM (Object-Relational Mapping) such as SQLAlchemy to work efficiently with relational databases.</p>
             </div>
 
             {/* 4th item */}
@@ -58,8 +58,8 @@ export default function Features() {
                   <circle className="stroke-current text-purple-300" cx="13" cy="9" r="3" />
                 </g>
               </svg>
-              <h4 className="h4 mb-2">Instant Features</h4>
-              <p className="text-lg text-gray-400 text-center">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
+              <h4 className="h4 mb-2">Database</h4>
+              <p className="text-lg text-gray-400 text-center">I manage structured data and relationships with MySQL, ensuring the security and efficiency of the applications I develop. On the other hand, I use MongoDB for projects that require NoSQL data storage. MongoDB is perfectly suited for situations where unstructured or semi-structured data needs to be handled, and its scalability makes it ideal for growing applications.</p>
             </div>
 
             {/* 5th item */}
@@ -71,8 +71,8 @@ export default function Features() {
                   <path className="stroke-current text-purple-300" d="M22 30h4v12h-4z" />
                 </g>
               </svg>
-              <h4 className="h4 mb-2">Instant Features</h4>
-              <p className="text-lg text-gray-400 text-center">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
+              <h4 className="h4 mb-2">Bootstrap</h4>
+              <p className="text-lg text-gray-400 text-center">I design attractive and responsive user interfaces using Bootstrap. The reason behind this is that Bootstrap is a popular web design tool that simplifies the creation of components and the effective application of CSS styles. Additionally, Bootstrap is designed with a focus on responsive design, which means projects adapt and look exceptional on any device, enhancing the user experience.</p>
             </div>
 
             {/* 6th item */}
