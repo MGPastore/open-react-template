@@ -1,5 +1,6 @@
 import Link from 'next/link'
 import MobileMenu from './mobile-menu'
+import Dropdown from '../ui/Dropdown';
 
 export default function Header() {
   return (
@@ -19,6 +20,7 @@ export default function Header() {
           {/* Desktop navigation */}
           <nav className="hidden md:flex md:grow">
             {/* Desktop sign in links */}
+        
             <ul className="flex grow justify-end flex-wrap items-center">
               <li>
                 <Link
@@ -34,6 +36,7 @@ export default function Header() {
                 </Link>
               </li>
             </ul>
+            <Dropdown />
           </nav>
 
           <MobileMenu />
