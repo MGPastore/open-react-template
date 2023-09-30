@@ -1,5 +1,5 @@
 export const metadata = {
-  title: 'Home - Open PRO',
+  title: 'My Porfolio App',
   description: 'Page description',
 }
 
